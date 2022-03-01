@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646155614 source:c:\users\user\desktop\projektek\parhuzamosalg\gyakorlat2\feladat2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+
