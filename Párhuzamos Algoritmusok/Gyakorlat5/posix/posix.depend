@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1646732365 source:c:\users\user\desktop\projektek\parhuzamosalg\gyakorlat5\posix\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<windows.h>
+
